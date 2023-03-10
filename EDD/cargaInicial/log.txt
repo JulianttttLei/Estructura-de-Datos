@@ -1,0 +1,838 @@
+[23/03/2022 12:31:20 ]
+AGREGAMOS LOS AEROPUERTOS: 
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: HAV , ciudad:  La Habana Cuba y numero de telefono  +53 7-2664644
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: KIN , ciudad:  Kingston y numero de telefono  +876 9248452 
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: NQN , ciudad:  Neuquén y numero de telefono  +54 299-4440244
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: ZCO , ciudad:  Temuco y numero de telefono  +56 45-2201901
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: EZE , ciudad:  Ezeiza y numero de telefono  +54 11-54806111
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: CUZ , ciudad:  Cuzco y numero de telefono  +51 84-222611
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: MAN , ciudad:  Manchester y numero de telefono  +44 808-1697030 
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: MIA , ciudad:  Miami y numero de telefono  +1 305-8767000
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: DUB , ciudad:  Dublin y numero de telefono  +353 19441111
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: VCE , ciudad:  Venecia y numero de telefono  +39 412-609260
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: DKB , ciudad:  Dakar y numero de telefono  +221 338-695050 
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: HKG , ciudad:  Hong Kong y numero de telefono  +852 21818888
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: SIN , ciudad:  Singapur y numero de telefono  +65 65956868
+[23/03/2022 12:31:20 ]
+Se ha agregado el aeropuerto con nombre aeronautico: DXB , ciudad:  Dubai y numero de telefono  +971 42245555
+[23/03/2022 12:31:20 ]
+---------------------------------------------------------------
+[23/03/2022 12:31:20 ]
+AGREGAMOS LOS CLIENTES: 
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 34567765 de documento, nombre:  Josefina , apellido:  Godoy ,fecha de nacimiento:  4/09/1997 , domicilio:  Latiti 567 y numero de telefono:  1234567890
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 87947589 de documento, nombre:  Alberto , apellido:  Ramirez ,fecha de nacimiento:  5/10/1978 , domicilio:  Alberdi 100 y numero de telefono:  2998765900
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40984564 de documento, nombre:  Jorgelina , apellido:  Chavez ,fecha de nacimiento:  12/01/1956 , domicilio:  Buenos Aires 900 y numero de telefono:  3339834890
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 56892341 de documento, nombre:  Gian , apellido:  Sosa ,fecha de nacimiento:  23/07/1977 , domicilio:  Leonidas Aguirre 540 y numero de telefono:  2345498700
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40569002 de documento, nombre:  Juan , apellido:  Garnero ,fecha de nacimiento:  6/03/1990 , domicilio:  9 de Julio 300 y numero de telefono:  2995980987 
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 42345908 de documento, nombre:  Ignacio , apellido:  Crespi ,fecha de nacimiento:  1/10/1967 , domicilio:  Caminito 105 y numero de telefono:  4590984532
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 41456098 de documento, nombre:  Bautista , apellido:  Rivas ,fecha de nacimiento:  30/08/1954 , domicilio:  Corrientes 245 y numero de telefono:  4569840912
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40123976 de documento, nombre:  Esteban , apellido:  Gimenez ,fecha de nacimiento:  13/03/1995 , domicilio:  Caseros 789 y numero de telefono:  3457857677
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 38798588 de documento, nombre:  Pilar , apellido:  Ferni ,fecha de nacimiento:  3/06/1958 , domicilio:  Bolivar 456 y numero de telefono:  6574598411
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 34904110 de documento, nombre:  Delfina , apellido:  Santarelli ,fecha de nacimiento:  26/11/1994 , domicilio:  Aconcagua 345 y numero de telefono:  5487894322
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 32984209 de documento, nombre:  Sofia , apellido:  Salamanca ,fecha de nacimiento:  31/09/1990 , domicilio:  Elordi 670 y numero de telefono:  1239875698
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 23453234 de documento, nombre:  Facundo , apellido:  Mecheli ,fecha de nacimiento:  6/02/1982 , domicilio:  Acosta 789 y numero de telefono:  3459870099
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 56932893 de documento, nombre:  Candela , apellido:  Moto ,fecha de nacimiento:  8/01/1981 , domicilio:  Agreelo 450 y numero de telefono:  4455995500
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 78948602 de documento, nombre:  Gaston , apellido:  Denten ,fecha de nacimiento:  2/07/1980 , domicilio:  Aguilar 124 y numero de telefono:  8954012345
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 32545609 de documento, nombre:  Luis , apellido:  Merison ,fecha de nacimiento:  17/12/1945 , domicilio:  Messi 765 y numero de telefono:  349504598
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 45626960 de documento, nombre:  Mario , apellido:  Gomez ,fecha de nacimiento:  18/09/1990 , domicilio:  Cañuelas 563 y numero de telefono:  3459289031
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 12390225 de documento, nombre:  Maria , apellido:  Lynh ,fecha de nacimiento:  4/04/1976 , domicilio:  Dargelia 667 y numero de telefono:  4230591245
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 56784323 de documento, nombre:  Guadalupe , apellido:  Perchert ,fecha de nacimiento:  19/03/1971 , domicilio:  Alvear 809 y numero de telefono:  2345985001
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 34593860 de documento, nombre:  Paulo , apellido:  Losto ,fecha de nacimiento:  23/01/1986 , domicilio:  Asamblea 456 y numero de telefono:  1238509894
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 56093496 de documento, nombre:  Raquel , apellido:  Mendoza ,fecha de nacimiento:  11/11/1972 , domicilio:  Belgrano 333 y numero de telefono:  3495001188
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 34869034 de documento, nombre:  Julio , apellido:  Peña ,fecha de nacimiento:  8/04/1988 , domicilio:  Avellaneda 452 y numero de telefono:  4569223399
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 65435956 de documento, nombre:  Hugo , apellido:  Ancanfil ,fecha de nacimiento:  1/09/1967 , domicilio:  Boedo 779 y numero de telefono:  3457659801 
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 56934094 de documento, nombre:  Julieta , apellido:  Roxer ,fecha de nacimiento:  23/07/1969 , domicilio:  Brasil 439 y numero de telefono:  3458034521
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 09893848 de documento, nombre:  Paz , apellido:  Salzen ,fecha de nacimiento:  6/12/1998 , domicilio:  Boyaca 900 y numero de telefono:  6789340924
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 87945049 de documento, nombre:  Luz , apellido:  Telnimo ,fecha de nacimiento:  27/07/1956 , domicilio:  Cobo 890 y numero de telefono:  3487349034 
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 43865893 de documento, nombre:  Leticia , apellido:  Marin ,fecha de nacimiento:  2/01/1999 , domicilio:  Daract 659 y numero de telefono:  3497583947
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40859403 de documento, nombre:  Florencia , apellido:  Cholcher ,fecha de nacimiento:  10/05/1945 , domicilio:  Elcano 234 y numero de telefono:  23984937590
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40485402 de documento, nombre:  Martina , apellido:  Spike ,fecha de nacimiento:  15/12/1960 , domicilio:  Forest 1345 y numero de telefono:  4959234598   
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40868540 de documento, nombre:  Lautaro , apellido:  Grome ,fecha de nacimiento:  19/12/1942 , domicilio:  Gaona 1579 y numero de telefono:  3489358912
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40845891 de documento, nombre:  Jimena , apellido:  Jimenez ,fecha de nacimiento:  22/03/1955 , domicilio:  Infanta Isabel 1234 y numero de telefono:  5437987610
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40580392 de documento, nombre:  Soledad , apellido:  Shell ,fecha de nacimiento:  30/07/1977 , domicilio:  Independencia 567 y numero de telefono:  4385004390
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40822185 de documento, nombre:  Vanesa , apellido:  Colt ,fecha de nacimiento:  27/01/1953 , domicilio:  Jujuy 1200 y numero de telefono:  5489734592
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40853848 de documento, nombre:  Romina , apellido:  Boin ,fecha de nacimiento:  22/09/1962 , domicilio:  Lafuente 2385 y numero de telefono:  4598270985
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 56844309 de documento, nombre:  Santiago , apellido:  Bullsen ,fecha de nacimiento:  20/08/1981 , domicilio:  Lastra 987 y numero de telefono:  3489235109
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 54895409 de documento, nombre:  Francisco , apellido:  Ashtel ,fecha de nacimiento:  24/12/1988 , domicilio:  Monroe 1343 y numero de telefono:  5349098422
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 45894020 de documento, nombre:  Ana , apellido:  Bibit ,fecha de nacimiento:  29/08/1992 , domicilio:  Lillo 849 y numero de telefono:  3498438900
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 42458459 de documento, nombre:  Laura , apellido:  Collet ,fecha de nacimiento:  31/04/1966 , domicilio:  Jenkis 533 y numero de telefono:  5840034301
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 42894584 de documento, nombre:  Fiamma , apellido:  Washington ,fecha de nacimiento:  4/08/1955 , domicilio:  Porson 1249 y numero de telefono:  9834021284
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 45845984 de documento, nombre:  Agustina , apellido:  Evans ,fecha de nacimiento:  9/09/2000 , domicilio:  Forsens 685 y numero de telefono:  4389120911
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 42843920 de documento, nombre:  Mariana , apellido:  Buzz ,fecha de nacimiento:  1/03/1974 , domicilio:  Wikens 1324 y numero de telefono:  5489218903
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 45856845 de documento, nombre:  Sergio , apellido:  Oliveri ,fecha de nacimiento:  31/07/1951 , domicilio:  Alcorta 345 y numero de telefono:  8452001188
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 42895490 de documento, nombre:  Rocio , apellido:  Stevens ,fecha de nacimiento:  30/02/1967 , domicilio:  Ramirez 1894 y numero de telefono:  4589348855
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 42839499 de documento, nombre:  Mercedes , apellido:  Stipinn ,fecha de nacimiento:  6/01/1968 , domicilio:  Nazca 348 y numero de telefono:  2385118822
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40845389 de documento, nombre:  Antony , apellido:  Stark ,fecha de nacimiento:  13/12/1960 , domicilio:  Olivera 46 y numero de telefono:  4589328912
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 54845899 de documento, nombre:  Steve , apellido:  Rogers ,fecha de nacimiento:  23/11/1947 , domicilio:  Mozconi 321 y numero de telefono:  4588330033
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 45480560 de documento, nombre:  Harry , apellido:  Potter ,fecha de nacimiento:  27/12/1995 , domicilio:  Moreno 222 y numero de telefono:  5489594005
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 42894599 de documento, nombre:  Hermione , apellido:  Granger ,fecha de nacimiento:  22/06/1994 , domicilio:  Thompson 432 y numero de telefono:  4390122990
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40854821 de documento, nombre:  Alfonsina , apellido:  Malesth ,fecha de nacimiento:  5/09/1991 , domicilio:  Punta Arenas 321 y numero de telefono:  5834029234
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40838285 de documento, nombre:  Valentina , apellido:  Ramos ,fecha de nacimiento:  22/11/1993 , domicilio:  Rivadavia 569 y numero de telefono:  3489290022
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40834894 de documento, nombre:  Ariana , apellido:  Reyes ,fecha de nacimiento:  28/02/1986 , domicilio:  Rosales 1110 y numero de telefono:  5482040023
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 40838453 de documento, nombre:  Eva , apellido:  Adamns ,fecha de nacimiento:  29/10/1999 , domicilio:  San Isidro 1560 y numero de telefono:  7843893201
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 54893092 de documento, nombre:  Geronimo , apellido:  Eminzon ,fecha de nacimiento:  19/07/1979 , domicilio:  San Juan 1498 y numero de telefono:  8238943890
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 48945930 de documento, nombre:  Oliverio , apellido:  Cruz ,fecha de nacimiento:  21/09/1990 , domicilio:  La Plata 459 y numero de telefono:  3487900991
+[23/03/2022 12:31:20 ]
+Se ha agregado el cliente con tipo: DNI y numero: 45903090 de documento, nombre:  Mateo , apellido:  Furtado ,fecha de nacimiento:  4/08/1992 , domicilio:  Buenos Aires 654 y numero de telefono:  8458911223
+[23/03/2022 12:31:20 ]
+-------------------------------------------------------
+[23/03/2022 12:31:20 ]
+AGREGAMOS LOS VUELOS Y LOS VIAJES: 
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 01/08/2022 para el vuelo: AA2345
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/08/2022 para el vuelo: AA2345
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/08/2022 para el vuelo: AA2345
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/08/2022 para el vuelo: AA2345
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  05/08/2022 para el vuelo: AA2345
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  06/08/2022 para el vuelo: AA2345
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  07/08/2022 para el vuelo: AA2345
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: AA2345 , aeropuerto de origen: NQN y destino: EZE , hora de salida: 22:30 y llegada: 1:00 y cantidad de asientos: 300
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 15/08/2022 para el vuelo: AA2986
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  16/08/2022 para el vuelo: AA2986
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  17/08/2022 para el vuelo: AA2986
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  18/08/2022 para el vuelo: AA2986
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  19/08/2022 para el vuelo: AA2986
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  20/08/2022 para el vuelo: AA2986
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  21/08/2022 para el vuelo: AA2986
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: AA2986 , aeropuerto de origen: EZE y destino: MAN , hora de salida: 5:45 y llegada: 2:15 y cantidad de asientos: 210
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 01/08/2022 para el vuelo: BV8548
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/08/2022 para el vuelo: BV8548
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/08/2022 para el vuelo: BV8548
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/08/2022 para el vuelo: BV8548
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  05/08/2022 para el vuelo: BV8548
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  06/08/2022 para el vuelo: BV8548
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  07/08/2022 para el vuelo: BV8548
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: BV8548 , aeropuerto de origen: KIN y destino: CUZ , hora de salida: 3:25 y llegada: 8:00 y cantidad de asientos: 300
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 08/08/2022 para el vuelo: VH5859
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  09/08/2022 para el vuelo: VH5859
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  10/08/2022 para el vuelo: VH5859
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  11/08/2022 para el vuelo: VH5859
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  12/08/2022 para el vuelo: VH5859
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  13/08/2022 para el vuelo: VH5859
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  14/08/2022 para el vuelo: VH5859
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: VH5859 , aeropuerto de origen: CUZ y destino: NQN , hora de salida: 1:35 y llegada: 5:24 y cantidad de asientos: 500
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 08/08/2022 para el vuelo: DF8949
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  09/08/2022 para el vuelo: DF8949
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  10/08/2022 para el vuelo: DF8949
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  11/08/2022 para el vuelo: DF8949
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  12/08/2022 para el vuelo: DF8949
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  13/08/2022 para el vuelo: DF8949
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  14/08/2022 para el vuelo: DF8949
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: DF8949 , aeropuerto de origen: EZE y destino: KIN , hora de salida: 2:55 y llegada: 7:00 y cantidad de asientos: 340
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 08/08/2022 para el vuelo: DE4592
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  09/08/2022 para el vuelo: DE4592
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  10/08/2022 para el vuelo: DE4592
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  11/08/2022 para el vuelo: DE4592
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  12/08/2022 para el vuelo: DE4592
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  13/08/2022 para el vuelo: DE4592
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  14/08/2022 para el vuelo: DE4592
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: DE4592 , aeropuerto de origen: MAN y destino: CUZ , hora de salida: 5:33 y llegada: 12:00 y cantidad de asientos: 100
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 08/08/2022 para el vuelo: SD4356
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  09/08/2022 para el vuelo: SD4356
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  10/08/2022 para el vuelo: SD4356
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  11/08/2022 para el vuelo: SD4356
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  12/08/2022 para el vuelo: SD4356
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  13/08/2022 para el vuelo: SD4356
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  14/08/2022 para el vuelo: SD4356
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: SD4356 , aeropuerto de origen: HAV y destino: NQN , hora de salida: 3:00 y llegada: 11:00 y cantidad de asientos: 400
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 22/08/2022 para el vuelo: DF9593
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  23/08/2022 para el vuelo: DF9593
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  24/08/2022 para el vuelo: DF9593
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  25/08/2022 para el vuelo: DF9593
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  26/08/2022 para el vuelo: DF9593
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  27/08/2022 para el vuelo: DF9593
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  28/08/2022 para el vuelo: DF9593
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: DF9593 , aeropuerto de origen: HAV y destino: ZCO , hora de salida: 1:00 y llegada: 11:10 y cantidad de asientos: 200
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 29/08/2022 para el vuelo: AA2234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  30/08/2022 para el vuelo: AA2234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  31/08/2022 para el vuelo: AA2234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  01/09/2022 para el vuelo: AA2234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/09/2022 para el vuelo: AA2234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/09/2022 para el vuelo: AA2234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/09/2022 para el vuelo: AA2234
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: AA2234 , aeropuerto de origen: KIN y destino: HAV , hora de salida: 5:50 y llegada: 6:15 y cantidad de asientos: 120
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 29/08/2022 para el vuelo: LK5693
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  30/08/2022 para el vuelo: LK5693
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  31/08/2022 para el vuelo: LK5693
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  01/09/2022 para el vuelo: LK5693
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/09/2022 para el vuelo: LK5693
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/09/2022 para el vuelo: LK5693
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/09/2022 para el vuelo: LK5693
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: LK5693 , aeropuerto de origen: ZCO y destino: EZE , hora de salida: 17:00 y llegada: 20:00 y cantidad de asientos: 300
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 15/08/2022 para el vuelo: IO5643
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  16/08/2022 para el vuelo: IO5643
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  17/08/2022 para el vuelo: IO5643
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  18/08/2022 para el vuelo: IO5643
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  19/08/2022 para el vuelo: IO5643
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  20/08/2022 para el vuelo: IO5643
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  21/08/2022 para el vuelo: IO5643
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: IO5643 , aeropuerto de origen: CUZ y destino: ZCO , hora de salida: 2:55 y llegada: 5:00 y cantidad de asientos: 540
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 01/08/2022 para el vuelo: CV5555
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/08/2022 para el vuelo: CV5555
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/08/2022 para el vuelo: CV5555
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/08/2022 para el vuelo: CV5555
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  05/08/2022 para el vuelo: CV5555
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  06/08/2022 para el vuelo: CV5555
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  07/08/2022 para el vuelo: CV5555
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: CV5555 , aeropuerto de origen: HKG y destino: DKB , hora de salida: 4:45 y llegada: 8:35 y cantidad de asientos: 273
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 15/08/2022 para el vuelo: VB8402
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  16/08/2022 para el vuelo: VB8402
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  17/08/2022 para el vuelo: VB8402
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  18/08/2022 para el vuelo: VB8402
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  19/08/2022 para el vuelo: VB8402
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  20/08/2022 para el vuelo: VB8402
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  21/08/2022 para el vuelo: VB8402
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: VB8402 , aeropuerto de origen: MIA y destino: EZE , hora de salida: 17:56 y llegada: 00:32 y cantidad de asientos: 345
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 01/08/2022 para el vuelo: NM0129
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/08/2022 para el vuelo: NM0129
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/08/2022 para el vuelo: NM0129
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/08/2022 para el vuelo: NM0129
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  05/08/2022 para el vuelo: NM0129
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  06/08/2022 para el vuelo: NM0129
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  07/08/2022 para el vuelo: NM0129
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: NM0129 , aeropuerto de origen: DKB y destino: VCE , hora de salida: 20:25 y llegada: 12:45 y cantidad de asientos: 459
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 08/08/2022 para el vuelo: SS6789
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  09/08/2022 para el vuelo: SS6789
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  10/08/2022 para el vuelo: SS6789
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  11/08/2022 para el vuelo: SS6789
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  12/08/2022 para el vuelo: SS6789
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  13/08/2022 para el vuelo: SS6789
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  14/08/2022 para el vuelo: SS6789
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: SS6789 , aeropuerto de origen: SIN y destino: CUZ , hora de salida: 7:56 y llegada: 2:34 y cantidad de asientos: 300
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 08/08/2022 para el vuelo: GK3478
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  09/08/2022 para el vuelo: GK3478
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  10/08/2022 para el vuelo: GK3478
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  11/08/2022 para el vuelo: GK3478
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  12/08/2022 para el vuelo: GK3478
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  13/08/2022 para el vuelo: GK3478
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  14/08/2022 para el vuelo: GK3478
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: GK3478 , aeropuerto de origen: SIN y destino: MAN , hora de salida: 9:45 y llegada: 5:23 y cantidad de asientos: 310
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 08/08/2022 para el vuelo: XC8650
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  09/08/2022 para el vuelo: XC8650
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  10/08/2022 para el vuelo: XC8650
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  11/08/2022 para el vuelo: XC8650
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  12/08/2022 para el vuelo: XC8650
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  13/08/2022 para el vuelo: XC8650
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  14/08/2022 para el vuelo: XC8650
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: XC8650 , aeropuerto de origen: MIA y destino: DUB , hora de salida: 11:09 y llegada: 19:43 y cantidad de asientos: 250
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 08/08/2022 para el vuelo: QQ1111
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  09/08/2022 para el vuelo: QQ1111
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  10/08/2022 para el vuelo: QQ1111
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  11/08/2022 para el vuelo: QQ1111
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  12/08/2022 para el vuelo: QQ1111
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  13/08/2022 para el vuelo: QQ1111
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  14/08/2022 para el vuelo: QQ1111
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: QQ1111 , aeropuerto de origen: DUB y destino: NQN , hora de salida: 4:12 y llegada: 21:09 y cantidad de asientos: 334
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 22/08/2022 para el vuelo: YY1234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  23/08/2022 para el vuelo: YY1234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  24/08/2022 para el vuelo: YY1234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  25/08/2022 para el vuelo: YY1234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  26/08/2022 para el vuelo: YY1234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  27/08/2022 para el vuelo: YY1234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  28/08/2022 para el vuelo: YY1234
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: YY1234 , aeropuerto de origen: DXB y destino: HAV , hora de salida: 12:03 y llegada: 5:17 y cantidad de asientos: 230
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 29/08/2022 para el vuelo: TT0000
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  30/08/2022 para el vuelo: TT0000
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  31/08/2022 para el vuelo: TT0000
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  01/09/2022 para el vuelo: TT0000
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/09/2022 para el vuelo: TT0000
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/09/2022 para el vuelo: TT0000
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/09/2022 para el vuelo: TT0000
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: TT0000 , aeropuerto de origen: DXB y destino: DUB , hora de salida: 15:34 y llegada: 20:56 y cantidad de asientos: 234
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 29/08/2022 para el vuelo: II2389
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  30/08/2022 para el vuelo: II2389
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  31/08/2022 para el vuelo: II2389
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  01/09/2022 para el vuelo: II2389
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/09/2022 para el vuelo: II2389
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/09/2022 para el vuelo: II2389
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/09/2022 para el vuelo: II2389
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: II2389 , aeropuerto de origen: MIA y destino: DKB , hora de salida: 5:57 y llegada: 10:15 y cantidad de asientos: 309
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 15/08/2022 para el vuelo: WW7666
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  16/08/2022 para el vuelo: WW7666
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  17/08/2022 para el vuelo: WW7666
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  18/08/2022 para el vuelo: WW7666
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  19/08/2022 para el vuelo: WW7666
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  20/08/2022 para el vuelo: WW7666
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  21/08/2022 para el vuelo: WW7666
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: WW7666 , aeropuerto de origen: HKG y destino: ZCO , hora de salida: 3:09 y llegada: 12:27 y cantidad de asientos: 250
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 29/08/2022 para el vuelo: UU7843
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  30/08/2022 para el vuelo: UU7843
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  31/08/2022 para el vuelo: UU7843
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  01/09/2022 para el vuelo: UU7843
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/09/2022 para el vuelo: UU7843
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/09/2022 para el vuelo: UU7843
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/09/2022 para el vuelo: UU7843
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: UU7843 , aeropuerto de origen: HKG y destino: HAV , hora de salida: 6:46 y llegada: 11:35 y cantidad de asientos: 435
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 15/08/2022 para el vuelo: OO4532
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  16/08/2022 para el vuelo: OO4532
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  17/08/2022 para el vuelo: OO4532
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  18/08/2022 para el vuelo: OO4532
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  19/08/2022 para el vuelo: OO4532
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  20/08/2022 para el vuelo: OO4532
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  21/08/2022 para el vuelo: OO4532
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: OO4532 , aeropuerto de origen: VCE y destino: DXB , hora de salida: 16:19 y llegada: 22:55 y cantidad de asientos: 432
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 29/08/2022 para el vuelo: VH5858
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  30/08/2022 para el vuelo: VH5858
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  31/08/2022 para el vuelo: VH5858
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  01/09/2022 para el vuelo: VH5858
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/09/2022 para el vuelo: VH5858
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/09/2022 para el vuelo: VH5858
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/09/2022 para el vuelo: VH5858
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: VH5858 , aeropuerto de origen: NQN y destino: VCE , hora de salida: 4:09 y llegada: 8:09 y cantidad de asientos: 200
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 15/08/2022 para el vuelo: SS6790
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  16/08/2022 para el vuelo: SS6790
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  17/08/2022 para el vuelo: SS6790
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  18/08/2022 para el vuelo: SS6790
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  19/08/2022 para el vuelo: SS6790
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  20/08/2022 para el vuelo: SS6790
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  21/08/2022 para el vuelo: SS6790
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: SS6790 , aeropuerto de origen: NQN y destino: VCE , hora de salida: 4:09 y llegada: 8:09 y cantidad de asientos: 200
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 29/08/2022 para el vuelo: YY1235
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  30/08/2022 para el vuelo: YY1235
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  31/08/2022 para el vuelo: YY1235
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  01/09/2022 para el vuelo: YY1235
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  02/09/2022 para el vuelo: YY1235
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  03/09/2022 para el vuelo: YY1235
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  04/09/2022 para el vuelo: YY1235
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: YY1235 , aeropuerto de origen: NQN y destino: VCE , hora de salida: 4:09 y llegada: 8:09 y cantidad de asientos: 200
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje 15/08/2022 para el vuelo: UU7844
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  16/08/2022 para el vuelo: UU7844
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  17/08/2022 para el vuelo: UU7844
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  18/08/2022 para el vuelo: UU7844
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  19/08/2022 para el vuelo: UU7844
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  20/08/2022 para el vuelo: UU7844
+[23/03/2022 12:31:20 ]
+Se ha agregado la fecha de viaje  21/08/2022 para el vuelo: UU7844
+[23/03/2022 12:31:20 ]
+Se ha agregado el vuelo con clave: UU7844 , aeropuerto de origen: NQN y destino: VCE , hora de salida: 4:09 y llegada: 8:09 y cantidad de asientos: 200
+[23/03/2022 12:31:20 ]
+---------------------------------------------------------------------------------
+[23/03/2022 12:31:20 ]
+AGREGAMOS LOS PASAJES: 
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2345 ]  , fecha: 01/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2986 ]  , fecha: 21/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2986 ]  , fecha: 21/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2986 ]  , fecha: 21/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = BV8548 ]  , fecha: 03/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = BV8548 ]  , fecha: 03/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = VH5859 ]  , fecha: 13/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = VH5859 ]  , fecha: 13/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = VH5859 ]  , fecha: 13/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = VH5859 ]  , fecha: 13/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF8949 ]  , fecha: 11/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF8949 ]  , fecha: 11/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF8949 ]  , fecha: 11/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF8949 ]  , fecha: 11/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DE4592 ]  , fecha: 11/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DE4592 ]  , fecha: 11/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DE4592 ]  , fecha: 11/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SD4356 ]  , fecha: 09/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SD4356 ]  , fecha: 09/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF9593 ]  , fecha: 22/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF8949 ]  , fecha: 11/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF8949 ]  , fecha: 11/08/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF8949 ]  , fecha: 11/08/2022, numero de asiento: 7 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SD4356 ]  , fecha: 09/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SD4356 ]  , fecha: 09/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SD4356 ]  , fecha: 09/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SD4356 ]  , fecha: 09/08/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DE4592 ]  , fecha: 14/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DE4592 ]  , fecha: 14/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DE4592 ]  , fecha: 14/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DE4592 ]  , fecha: 14/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF9593 ]  , fecha: 22/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF9593 ]  , fecha: 22/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF9593 ]  , fecha: 22/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = DF9593 ]  , fecha: 22/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = VH5859 ]  , fecha: 13/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = VH5859 ]  , fecha: 13/08/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = VH5859 ]  , fecha: 13/08/2022, numero de asiento: 7 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = BV8548 ]  , fecha: 03/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = BV8548 ]  , fecha: 03/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = BV8548 ]  , fecha: 03/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = BV8548 ]  , fecha: 03/08/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2986 ]  , fecha: 21/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2986 ]  , fecha: 21/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2986 ]  , fecha: 21/08/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2986 ]  , fecha: 21/08/2022, numero de asiento: 7 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2345 ]  , fecha: 01/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2345 ]  , fecha: 01/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2345 ]  , fecha: 01/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2345 ]  , fecha: 01/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2234 ]  , fecha: 31/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2234 ]  , fecha: 31/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = AA2234 ]  , fecha: 31/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = LK5693 ]  , fecha: 31/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = LK5693 ]  , fecha: 31/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = LK5693 ]  , fecha: 31/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = LK5693 ]  , fecha: 31/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = IO5643 ]  , fecha: 18/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = IO5643 ]  , fecha: 18/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = IO5643 ]  , fecha: 18/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = IO5643 ]  , fecha: 18/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = IO5643 ]  , fecha: 18/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = OO4532 ]  , fecha: 17/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = OO4532 ]  , fecha: 17/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = OO4532 ]  , fecha: 17/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = OO4532 ]  , fecha: 17/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = OO4532 ]  , fecha: 17/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = OO4532 ]  , fecha: 17/08/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = OO4532 ]  , fecha: 17/08/2022, numero de asiento: 7 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = UU7843 ]  , fecha: 02/09/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = UU7843 ]  , fecha: 02/09/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = UU7843 ]  , fecha: 02/09/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = UU7843 ]  , fecha: 02/09/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = UU7843 ]  , fecha: 02/09/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = UU7843 ]  , fecha: 02/09/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = WW7666 ]  , fecha: 21/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = WW7666 ]  , fecha: 21/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = WW7666 ]  , fecha: 21/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = II2389 ]  , fecha: 04/09/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = II2389 ]  , fecha: 04/09/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = II2389 ]  , fecha: 04/09/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = II2389 ]  , fecha: 04/09/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = II2389 ]  , fecha: 04/09/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = TT0000 ]  , fecha: 01/09/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = TT0000 ]  , fecha: 01/09/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = TT0000 ]  , fecha: 01/09/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = TT0000 ]  , fecha: 01/09/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = TT0000 ]  , fecha: 01/09/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = TT0000 ]  , fecha: 01/09/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = YY1234 ]  , fecha: 25/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = YY1234 ]  , fecha: 25/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = YY1234 ]  , fecha: 25/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = YY1234 ]  , fecha: 25/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = YY1234 ]  , fecha: 25/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = YY1234 ]  , fecha: 26/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = YY1234 ]  , fecha: 26/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = QQ1111 ]  , fecha: 14/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = QQ1111 ]  , fecha: 14/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = QQ1111 ]  , fecha: 14/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = QQ1111 ]  , fecha: 14/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = QQ1111 ]  , fecha: 14/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = XC8650 ]  , fecha: 12/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = XC8650 ]  , fecha: 12/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = XC8650 ]  , fecha: 12/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = XC8650 ]  , fecha: 12/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = XC8650 ]  , fecha: 12/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = GK3478 ]  , fecha: 10/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = GK3478 ]  , fecha: 10/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = GK3478 ]  , fecha: 10/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = GK3478 ]  , fecha: 10/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SS6789 ]  , fecha: 08/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SS6789 ]  , fecha: 08/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SS6789 ]  , fecha: 08/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SS6789 ]  , fecha: 08/08/2022, numero de asiento: 4 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SS6789 ]  , fecha: 08/08/2022, numero de asiento: 5 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = SS6789 ]  , fecha: 08/08/2022, numero de asiento: 6 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = NM0129 ]  , fecha: 07/08/2022, numero de asiento: 1 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = NM0129 ]  , fecha: 07/08/2022, numero de asiento: 2 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = NM0129 ]  , fecha: 07/08/2022, numero de asiento: 3 y estado: pendiente
+[23/03/2022 12:31:20 ]
+Se ha agregado el pasaje con vuelo:[clave = NM0129 ]  , fecha: 07/08/2022, numero de asiento: 4 y estado: pendiente

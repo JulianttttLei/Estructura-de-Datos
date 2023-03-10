@@ -1,0 +1,14 @@
+HAV, La Habana Cuba, +53 7-2664644
+KIN, Kingston, +876 9248452 
+NQN, Neuquén, +54 299-4440244
+ZCO, Temuco, +56 45-2201901
+EZE, Ezeiza, +54 11-54806111
+CUZ, Cuzco, +51 84-222611
+MAN, Manchester, +44 808-1697030 
+MIA, Miami, +1 305-8767000
+DUB, Dublin, +353 19441111
+VCE, Venecia, +39 412-609260
+DKB, Dakar, +221 338-695050 
+HKG, Hong Kong, +852 21818888
+SIN, Singapur, +65 65956868
+DXB, Dubai, +971 42245555
